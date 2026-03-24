@@ -1,0 +1,14 @@
+{
+  "name": "testing-project",
+  "version": "1.0.0",
+  "description": "A project to practice creating TDD tests using Jest for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
