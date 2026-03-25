@@ -1,7 +1,5 @@
 function capitalize(val) {
-  return val.s
+  return val[0].toUpperCase()+val.slice(1);
 }
-
-console.log(capitalize("test"))
 
 module.exports = capitalize;
